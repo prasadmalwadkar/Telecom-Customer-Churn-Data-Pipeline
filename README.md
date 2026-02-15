@@ -28,7 +28,7 @@ This project is aimed at helping telecommunications companies combat customer ch
 
 
 To view the Tableau dashboard, click on the following link:
-[Automated Telecom Customer Churn Analysis Dashboard](https://public.tableau.com/views/AutomatedTelecomCustomerChurnAnalysis/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[Automated Telecom Customer Churn Analysis Dashboard](https://public.tableau.com/app/profile/prasad.malwadkar/viz/AutomatedTelecomCustomerChurnAnalysis_17711246699320/Dashboard)
 
 ![file_2024-03-31_22 57 32](https://github.com/ritikdhame/Automated-Telecom-Customer-Churn-Analysis/assets/7029092/9067c107-72d7-4a32-a520-579f9dbb55fb)
 
